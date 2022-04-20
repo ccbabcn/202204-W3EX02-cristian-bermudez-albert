@@ -9,3 +9,5 @@ const testButton = new Button(document.body, "Test button", () => {
 const paraTest = new Paragraph(document.body);
 
 console.log(testButton);
+
+const asyncFunction = () => {};
